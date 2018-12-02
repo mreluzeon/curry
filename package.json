@@ -1,0 +1,24 @@
+{
+  "name": "curry",
+  "version": "1.0.0",
+  "description": "This package curries binary function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/mreluzeon/curry"
+  },
+  "keywords": [
+    "curry",
+    "cirrying",
+    "functional",
+    "programming",
+    "functions",
+    "function",
+    "fp"
+  ],
+  "author": "Leonid",
+  "license": "ISC"
+}
