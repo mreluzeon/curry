@@ -5,7 +5,7 @@ This package curries binary functions.
 ## How to work with it
 
 ```javascript
-curry = require('curry').curry
+curry = require('le-curriere').curry
 add = (a, b) => a + b
 
 // Before
