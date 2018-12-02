@@ -1,5 +1,5 @@
 {
-  "name": "le-currier",
+  "name": "le-curriere",
   "version": "1.0.0",
   "description": "This package curries binary function",
   "main": "index.js",
